@@ -4,7 +4,7 @@
             <div class="flex justify-between items-center py-4">
                 <div class="flex items-center">
                     <a href="/">
-                        <img src="/assets/logosuitmedia.png" alt="Suitmedia Logo" class="w-10 h-10 object-contain" />
+                        <img src="/public/assets/logosuitmedia.png" alt="Suitmedia Logo" class="w-10 h-10 object-contain" />
                     </a>
                 </div>
 
